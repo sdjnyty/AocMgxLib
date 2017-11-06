@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AocMgxLib", "AocMgxLib\AocMgxLib.csproj", "{91453227-DACD-4A93-9380-C60E5F8DBCAD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{537389F3-E3FF-48BC-A154-B6FCD5A3FFA7}"
+	ProjectSection(SolutionItems) = preProject
+		AocMgxLib\Resources\mgx_format_total.html = AocMgxLib\Resources\mgx_format_total.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
